@@ -1,4 +1,4 @@
-### Hi there, I`m Fabricio Garcia Finkler 👋
+### Hi, I`m Fabricio Garcia Finkler 👋
 
 <!--
 **fabricio-garcia/fabricio-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
